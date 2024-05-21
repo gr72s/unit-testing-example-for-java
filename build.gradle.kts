@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    testImplementation("org.jetbrains.kotlin:kotlin-test")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.2")
     testImplementation("org.mockito:mockito-core:5.8.0")
 }

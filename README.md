@@ -4,4 +4,4 @@ example code for Java
 
 ## Completed Chapter
 
-- [ ] chapter2: What is a unit test?
+- [x] chapter2: What is a unit test?
